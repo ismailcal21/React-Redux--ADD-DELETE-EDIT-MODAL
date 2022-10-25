@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+<h1 align="center">Gif Ornegimiz</h1>
+<p><img  align="center" src="https://github.com/ismailcal21/React-Redux--ADD-DELETE-EDIT-MODAL/blob/main/gif.gif" width="800" height="500"/></p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
