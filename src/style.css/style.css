@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap");
+
+.navbarCss {
+  background: rgba(2, 218, 251, 0.9) !important;
+  height: 80px;
+  transition: 2s;
+  cursor: pointer;
+}
+.navbarCss:hover {
+  background: rgba(0, 150, 226, 0.9) !important;
+  height: 85px;
+}
+
+.uzunluk {
+  width: 100%;
+  min-height: 100vh;
+}
+.font {
+  font-family: "Crimson Text", serif;
+}
+.tableGenislik {
+  max-width: 1000px;
+  cursor: pointer;
+}
+
+.listbookDiv {
+  background-color: aliceblue;
+
+  font-size: 24px;
+  transition: 4s;
+}
+.listbookDiv:hover {
+  background-color: rgba(2, 2, 2, 0.3);
+  /* background: linear-gradient(to left, rgba(255, 0, 0, 0), rgb(212, 117, 117)); */
+}

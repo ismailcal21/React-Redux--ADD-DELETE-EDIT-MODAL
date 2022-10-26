@@ -1,0 +1,61 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "name": "Beyaz DIS",
+      "author": "Jack London",
+      "isbn": "111113",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "LEYLEKLERIN UCUSU",
+      "author": "jean grange",
+      "isbn": "111113",
+      "categoryId": "3"
+    },
+    {
+      "id": 1663573948903,
+      "name": "Harry Potter ve Felsefe tasi",
+      "author": "J.C.ROLLING",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1663574218142,
+      "name": "Ejderha Dovmeli Kiz",
+      "author": "Steig Larsson",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1663574277548,
+      "name": "Martin Eden",
+      "author": "Jack London",
+      "isbn": "11111112",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Roman"
+    },
+    {
+      "id": 2,
+      "name": "Hikaye"
+    },
+    {
+      "id": 3,
+      "name": "Deneme"
+    },
+    {
+      "id": 1665299079092,
+      "name": "Siir"
+    },
+    {
+      "id": 1665378704011,
+      "name": "Duz yazi"
+    }
+  ]
+}
