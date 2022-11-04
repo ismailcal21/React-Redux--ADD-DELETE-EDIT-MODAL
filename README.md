@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 <h1 align="center">Gif Ornegimiz</h1>
-<p><img  align="center" src="https://raw.githubusercontent.com/ismailcal21/React-Redux-LOGIN-LOGOUT-ROUTER-CATEGORIES-CATEGORIES-DETAILS-/main/React%20App%20-%20Google%20Chrome%202022-11-04%2014-00-59.gif" width="800" height="500"/></p>
+<p><img  align="center" src="https://github.com/ismailcal21/React-Redux--ADD-DELETE-EDIT-MODAL/blob/main/gif.gif" width="800" height="500"/></p>
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
